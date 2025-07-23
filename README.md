@@ -63,6 +63,6 @@ JarvisTerminal/
 **Dhruv Patel**  
 Java Developer | Cloud Enthusiast | Always Building Something Cool  
 📍 Currently relocating to India  
-📫 [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)
 
 This project is part of my portfolio and showcases my skills in Java, multithreading, and API integrations. Feedback and contributions are welcome!
